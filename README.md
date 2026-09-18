@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Lawaz%20Islam&fontColor=5fed83&fontSize=46&fontAlignY=42&desc=IT%20and%20Data%20Analyst%20%7C%20Electrical%20and%20Computer%20Engineer%20(MEng)&descColor=a4aea6&descSize=16&descAlignY=68" width="100%" alt="Lawaz Islam" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=5FED83&background=0D111700&vCenter=true&width=900&height=200&multiline=true&lines=%24+whoami+--role;IT+%26+Data+Analyst+%7C+Electrical+%26+Computer+Engineer+(MEng);%24+cat+stack.txt;Power+BI+%7C+SQL+%7C+Python+%7C+ServiceNow+%7C+MATLAB+%7C+Verilog+%7C+C%2B%2B+%7C+PLC;%24+ls+projects%2F;job-tracker+slickscores+iot-dashboard+phev-controller+fpga-lab;%24+echo+%22every+number+here+traces+to+a+report+or+a+resume%22" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=5FED83&background=0D111700&vCenter=true&width=900&height=150&multiline=true&lines=IT+%26+Data+Analyst+%7C+Electrical+%26+Computer+Engineer+(MEng%2C+University+of+Windsor+2026);Power+BI+%7C+SQL+%7C+Python+%7C+ServiceNow+%7C+MATLAB+%7C+Verilog+%7C+C%2B%2B+%7C+PLC;Projects%3A+job-tracker%2C+slickscores%2C+iot-dashboard%2C+phev-controller%2C+fpga-lab;Every+number+on+this+page+traces+to+a+report+or+a+resume." alt="typing" />
 
 <br/>
 
@@ -26,19 +26,19 @@
 
 </div>
 
-## `$ cat about.md`
+## About
 
 I turn messy data into clear answers, and ideas into working hardware. I grew up in Doha, studied engineering in Kolkata, and finished my MEng in Windsor, with training stops at NASA Kennedy Space Center and the National University of Singapore along the way. Two Windsor placements in a row came down to the same thing: get the data right, then make it useful. I build things when nobody asks me to, and I would rather ship something measurable than describe something impressive.
 
-```bash
-ROLE     = "IT & Data Analyst | Electrical & Computer Engineer (MEng)"
-EXP      = "6 placements and internships across Canada, Qatar and India (2022 to 2026)"
-DOMAIN   = "Municipal IT, non-profit operations, telecom, banking, VLSI, robotics"
-STACK    = "Power BI, DAX, SQL, Python, ServiceNow, Microsoft 365, MATLAB/Simulink, Verilog, C++, PLC (Siemens TIA Portal)"
-OPEN_TO  = "IT Support Analyst, Junior Data Analyst, IT Project Coordinator, Reporting Analyst, Engineering Technician, anywhere in Ontario"
+```text
+Role      IT & Data Analyst | Electrical & Computer Engineer (MEng)
+Experience 6 placements and internships across Canada, Qatar and India, 2022 to 2026
+Domains   Municipal IT, non-profit operations, telecom, banking, VLSI, robotics
+Stack     Power BI, DAX, SQL, Python, ServiceNow, Microsoft 365, MATLAB/Simulink, Verilog, C++, PLC (Siemens TIA Portal)
+Open to   IT Support Analyst, Junior Data Analyst, IT Project Coordinator, Reporting Analyst, Engineering Technician, anywhere in Ontario
 ```
 
-## `$ ls tech-stack/`
+## Tech stack
 
 <div align="center">
 
@@ -69,7 +69,7 @@ OPEN_TO  = "IT Support Analyst, Junior Data Analyst, IT Project Coordinator, Rep
 
 </div>
 
-## `$ cat expertise.tsv`
+## Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -80,7 +80,7 @@ OPEN_TO  = "IT Support Analyst, Junior Data Analyst, IT Project Coordinator, Rep
 | Digital design and FPGA | Internship, Grade A | Verilog, Xilinx Vivado, Artix-7. Counters, shift registers, 7-segment and LCD drivers on real hardware |
 | Embedded and IoT | Project level | ESP32, ESP8266, Arduino, C/C++ firmware, relay control, sensor pipelines |
 
-## `$ ls featured-projects/`
+## Featured projects
 
 <details open>
 <summary><b>job-tracker</b> · live full-stack job application tracker</summary>
@@ -180,7 +180,7 @@ NodeMCU ESP8266 firmware that joins the local WiFi network, runs a small web ser
 
 </details>
 
-## `$ git log --experience`
+## Experience
 
 **Jan 2026 to Apr 2026 · Data Manager · Welcome Centre Shelter for Women and Families · Windsor, ON**
 - Reconciled 100+ invoice records worth $100K+ over 12 months for a non-profit serving 200+ clients
@@ -232,7 +232,7 @@ NodeMCU ESP8266 firmware that joins the local WiFi network, runs a small web ser
 
 `ROS` `Gazebo` `Arduino` `Ubuntu`
 
-## `$ cat achievements.md`
+## Achievements
 
 <div align="center">
 
@@ -248,7 +248,7 @@ NodeMCU ESP8266 firmware that joins the local WiFi network, runs a small web ser
 
 </div>
 
-## `$ cat education.md`
+## Education
 
 <div align="center">
 
@@ -258,7 +258,7 @@ NodeMCU ESP8266 firmware that joins the local WiFi network, runs a small web ser
 
 </div>
 
-## `$ cat certifications.md`
+## Certifications
 
 <div align="center">
 
@@ -275,7 +275,7 @@ NodeMCU ESP8266 firmware that joins the local WiFi network, runs a small web ser
 
 </div>
 
-## `$ git stats --user lawazislam`
+## GitHub activity
 
 <div align="center">
 
@@ -300,7 +300,7 @@ NodeMCU ESP8266 firmware that joins the local WiFi network, runs a small web ser
 
 </div>
 
-## `$ cat current-focus.yaml`
+## Current focus
 
 ```yaml
 learning:
@@ -322,7 +322,7 @@ open_to:
   - Anywhere in Ontario, PGWP, no sponsorship required
 ```
 
-## `$ ./connect.sh`
+## Connect
 
 <div align="center">
 
