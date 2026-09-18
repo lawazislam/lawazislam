@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Lawaz%20Islam&fontColor=5fed83&fontSize=48&fontAlignY=38&desc=IT%20%26%20Data%20Analyst%20%C2%B7%20Electrical%20%26%20Computer%20Engineer%20(MEng)&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Lawaz Islam" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Lawaz%20Islam&fontColor=5fed83&fontSize=46&fontAlignY=42&desc=IT%20and%20Data%20Analyst%20%7C%20Electrical%20and%20Computer%20Engineer%20(MEng)&descColor=a4aea6&descSize=16&descAlignY=68" width="100%" alt="Lawaz Islam" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=5FED83&background=0D111700&vCenter=true&width=760&height=140&multiline=true&lines=%24+whoami+--role;IT+%26+Data+Analyst+%7C+Electrical+%26+Computer+Engineer+(MEng%2C+UWindsor+2026);%24+cat+stack.txt;Power+BI+%C2%B7+SQL+%C2%B7+Python+%C2%B7+ServiceNow+%C2%B7+MATLAB%2FSimulink+%C2%B7+Verilog+%C2%B7+C%2B%2B+%C2%B7+PLC;%24+ls+projects%2F;job-tracker+slickscores+iot-dashboard+phev-controller+fpga-lab+sudoku;%24+echo+%22every+number+here+traces+to+a+report+or+a+resume%22" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=5FED83&background=0D111700&vCenter=true&width=900&height=200&multiline=true&lines=%24+whoami+--role;IT+%26+Data+Analyst+%7C+Electrical+%26+Computer+Engineer+(MEng);%24+cat+stack.txt;Power+BI+%7C+SQL+%7C+Python+%7C+ServiceNow+%7C+MATLAB+%7C+Verilog+%7C+C%2B%2B+%7C+PLC;%24+ls+projects%2F;job-tracker+slickscores+iot-dashboard+phev-controller+fpga-lab;%24+echo+%22every+number+here+traces+to+a+report+or+a+resume%22" alt="typing" />
 
 <br/>
 
@@ -279,30 +279,18 @@ NodeMCU ESP8266 firmware that joins the local WiFi network, runs a small web ser
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lawazislam&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=5fed83&icon_color=5fed83&text_color=a4aea6&border_color=21262d" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lawazislam&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=5fed83&icon_color=5fed83&text_color=a4aea6&border_color=21262d&cache_seconds=86400" height="165" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=lawazislam&background=0d1117&border=21262d&stroke=21262d&ring=5fed83&fire=5fed83&currStreakNum=ffffff&currStreakLabel=5fed83&sideNums=ffffff&sideLabels=a4aea6&dates=a4aea6" height="165" alt="Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawazislam&layout=compact&langs_count=8&bg_color=0d1117&title_color=5fed83&text_color=a4aea6&border_color=21262d" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawazislam&layout=compact&langs_count=8&bg_color=0d1117&title_color=5fed83&text_color=a4aea6&border_color=21262d&cache_seconds=86400" alt="Top languages" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=lawazislam&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="Trophies" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lawazislam&bg_color=0d1117&color=a4aea6&title_color=5fed83&line=5fed83&point=ffffff&area=true&area_color=08872b&border_color=21262d&hide_border=false" width="100%" alt="Activity graph" />
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lawazislam&theme=github_dark" width="100%" alt="Profile details" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lawazislam&theme=github_dark" width="49%" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lawazislam&theme=github_dark" width="49%" alt="Most commit language" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lawazislam&theme=github_dark" width="49%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lawazislam&theme=github_dark&utcOffset=-5" width="49%" alt="Productive time" />
 
 <br/><br/>
 
