@@ -279,18 +279,20 @@ NodeMCU ESP8266 firmware that joins the local WiFi network, runs a small web ser
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lawazislam&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=5fed83&icon_color=5fed83&text_color=a4aea6&border_color=21262d&cache_seconds=86400" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=lawazislam&background=0d1117&border=21262d&stroke=21262d&ring=5fed83&fire=5fed83&currStreakNum=ffffff&currStreakLabel=5fed83&sideNums=ffffff&sideLabels=a4aea6&dates=a4aea6" height="165" alt="Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawazislam&layout=compact&langs_count=8&bg_color=0d1117&title_color=5fed83&text_color=a4aea6&border_color=21262d&cache_seconds=86400" alt="Top languages" />
-
+<img src="https://streak-stats.demolab.com?user=lawazislam&background=0d1117&border=21262d&stroke=21262d&ring=5fed83&fire=5fed83&currStreakNum=ffffff&currStreakLabel=5fed83&sideNums=ffffff&sideLabels=a4aea6&dates=a4aea6" alt="Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lawazislam&bg_color=0d1117&color=a4aea6&title_color=5fed83&line=5fed83&point=ffffff&area=true&area_color=08872b&border_color=21262d&hide_border=false" width="100%" alt="Activity graph" />
-
+<a href="https://github.com/lawazislam/job-tracker"><img src="https://img.shields.io/github/last-commit/lawazislam/job-tracker?style=flat-square&color=5fed83&labelColor=0d1117&label=job-tracker%20%C2%B7%20last%20commit" alt="job-tracker last commit" /></a>
+<a href="https://github.com/lawazislam/job-tracker"><img src="https://img.shields.io/github/languages/top/lawazislam/job-tracker?style=flat-square&color=5fed83&labelColor=0d1117&label=job-tracker%20%C2%B7%20language" alt="job-tracker language" /></a>
+<a href="https://github.com/lawazislam/job-tracker"><img src="https://img.shields.io/github/repo-size/lawazislam/job-tracker?style=flat-square&color=5fed83&labelColor=0d1117&label=job-tracker%20%C2%B7%20size" alt="job-tracker size" /></a>
+<br/>
+<a href="https://github.com/lawazislam/slickscores"><img src="https://img.shields.io/github/last-commit/lawazislam/slickscores?style=flat-square&color=5fed83&labelColor=0d1117&label=slickscores%20%C2%B7%20last%20commit" alt="slickscores last commit" /></a>
+<a href="https://github.com/lawazislam/slickscores"><img src="https://img.shields.io/github/languages/top/lawazislam/slickscores?style=flat-square&color=5fed83&labelColor=0d1117&label=slickscores%20%C2%B7%20language" alt="slickscores language" /></a>
+<a href="https://github.com/lawazislam/slickscores"><img src="https://img.shields.io/github/languages/count/lawazislam/slickscores?style=flat-square&color=5fed83&labelColor=0d1117&label=slickscores%20%C2%B7%20languages" alt="slickscores language count" /></a>
+<br/>
+<img src="https://img.shields.io/github/followers/lawazislam?style=flat-square&color=5fed83&labelColor=0d1117&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/stars/lawazislam?style=flat-square&color=5fed83&labelColor=0d1117&label=Stars&affiliations=OWNER" alt="Stars" />
 
 <br/><br/>
 
