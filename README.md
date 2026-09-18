@@ -372,17 +372,17 @@ What I build and lead when nobody is making me.
 ## Current focus
 
 ```yaml
-learning:
+Learning:
   - Siemens TIA Portal beyond the fundamentals cert (ladder logic, FBD, industrial sensors)
   - Deeper Power BI modeling and DAX for operational reporting
-building:
+Building:
   - job-tracker: the eight-stage pipeline I use for my own search
   - slickscores: hardening the 2026 rebuild (live RAWG catalog, server-side auth, pytest)
   - lawazislam.com: a portfolio where every number has a receipt
-exploring:
+Exploring:
   - AI tooling in real workflows, after helping design the City of Windsor's AI use-case intake process
   - Applying the PHEV dynamic-programming benchmark to adaptive control
-open_to:
+Open to:
   - IT Support Analyst, Junior Data Analyst, IT Project Coordinator, Reporting Analyst, Engineering Technician
   - Anywhere in Ontario, PGWP, no sponsorship required
 ```
