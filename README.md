@@ -348,6 +348,16 @@ What I build and lead when nobody is making me.
 
 </div>
 
+## Skill signal
+
+Self-generated from the same Expertise table on the site, not a template. The levels are ordinal, taken from the site's own wording (Project level, Internship Grade A, Graduate coursework, Deployed and tested, Working professionally), not an invented numeric score.
+
+<div align="center">
+
+<img src="https://lawazislam.com/assets/skill-radar.svg" width="520" alt="Skill signal radar chart across Data analysis, IT support, Full-stack web, Control systems, Digital design and Embedded/IoT, sourced from lawazislam.com" />
+
+</div>
+
 ## GitHub activity
 
 <div align="center">
@@ -372,17 +382,17 @@ What I build and lead when nobody is making me.
 ## Current focus
 
 ```yaml
-Learning:
+learning:
   - Siemens TIA Portal beyond the fundamentals cert (ladder logic, FBD, industrial sensors)
   - Deeper Power BI modeling and DAX for operational reporting
-Building:
+building:
   - job-tracker: the eight-stage pipeline I use for my own search
   - slickscores: hardening the 2026 rebuild (live RAWG catalog, server-side auth, pytest)
   - lawazislam.com: a portfolio where every number has a receipt
-Exploring:
+exploring:
   - AI tooling in real workflows, after helping design the City of Windsor's AI use-case intake process
   - Applying the PHEV dynamic-programming benchmark to adaptive control
-Open to:
+open_to:
   - IT Support Analyst, Junior Data Analyst, IT Project Coordinator, Reporting Analyst, Engineering Technician
   - Anywhere in Ontario, PGWP, no sponsorship required
 ```
