@@ -439,11 +439,11 @@ What I build and lead when nobody is making me.
 
 ## Skill signal
 
-Self-generated from the same Expertise table on the site, not a template. The levels are ordinal, taken from the site's own wording (Project level, Internship Grade A, Graduate coursework, Deployed and tested, Working professionally), not an invented numeric score.
+Self-generated from the same Expertise table on the site, not a template. The levels are ordinal, taken from the site's own wording (Project level, Internship level, Graduate coursework, Deployed and tested, Working professionally), not an invented numeric score.
 
 <div align="center">
 
-<img src="https://lawazislam.com/assets/skill-radar.svg?v=2" width="520" alt="Skill signal radar chart across Data analysis, IT support, Full-stack web, Control systems, Digital design and Embedded/IoT, sourced from lawazislam.com" />
+<img src="https://lawazislam.com/assets/skill-radar.svg?v=4" width="520" alt="Skill signal radar chart across Data analysis, IT support, Full-stack web, Control systems, Digital design and Embedded/IoT, sourced from lawazislam.com" />
 
 </div>
 
