@@ -58,7 +58,7 @@ Three things you can hand me and trust. Each one pairs what I understand with wh
 
 Reconciliation, reporting and dashboards in Power BI, DAX, SQL, Excel and Python. I clean the data, find what is wrong with it, and show leadership what it means.
 
-**$100K+** in invoices reconciled and 10+ discrepancies caught before they reached reporting, for a shelter serving 200+ clients a year.
+**$200K+** in invoices reconciled and 10+ discrepancies caught before they reached reporting, for a shelter serving 200+ clients a year.
 
 </td>
 <td width="33%" valign="top">
@@ -114,7 +114,7 @@ Every figure below names where it comes from. Nothing here is estimated for effe
 
 | Number | What | Source |
 |---|---|---|
-| **$100K+** | Invoices reconciled over 12 months | Welcome Centre Shelter, 2026 |
+| **$200K+** | Invoices reconciled over 16 months | Welcome Centre Shelter, 2026 |
 | **10+** | Discrepancies caught before reporting | Welcome Centre Shelter, 2026 |
 | **200+** | Clients a year served by the organization | Welcome Centre Shelter |
 | **50+** | Knowledge-base articles rebuilt, used department-wide | City of Windsor, 2025 |
@@ -182,6 +182,35 @@ An ESP32 with a DHT22 sensor simulated in Wokwi, a Python pipeline (pandas, nump
 | ESP32, Wokwi, Python, Power BI, DAX | 402 readings, 3 status tiers | Flagged 27 critical events and showed 41% of readings breached safe thresholds |
 
 <a href="https://lawazislam.com/projects"><img src="https://img.shields.io/badge/Read-Full%20report%20(PDF)-08872b?style=for-the-badge&labelColor=0d1117" alt="Report" /></a>
+<a href="https://github.com/lawazislam/iot-environmental-dashboard"><img src="https://img.shields.io/badge/View-Source-08872b?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
+
+</details>
+
+<details>
+<summary><b>Client-Server Chat System</b> · multi-threaded Python over TCP sockets</summary>
+<br/>
+
+A multi-threaded chat server in Python: one server handles several clients at once over TCP sockets, using a fixed-length header protocol so the receiver always knows exactly how many bytes to read next. Broadcast messages to everyone or a private `@username` message to one person. Built with Sayantan Sarkar for a Computer Networks Lab practical.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| Python, socket, threading, select | Concurrent multi-client handling | Framing protocol and concurrent connection handling built from raw sockets, no framework |
+
+<a href="https://github.com/lawazislam/client-server-python"><img src="https://img.shields.io/badge/View-Source-08872b?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
+
+</details>
+
+<details>
+<summary><b>To Your Door</b> · Android food delivery app, four-person capstone</summary>
+<br/>
+
+A four-person capstone Android app for food delivery, covering both the customer side (restaurant discovery, cart, checkout, live order tracking) and the restaurant side (menu and order management). Built with Ishu Kumar, Anchal Kumari, and Arko Paul, supervised by Prof. Tapan Kumar Rana. My contribution was spread across the app rather than one isolated piece.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| Kotlin, Android Studio, Firebase, Google Maps API, Razorpay | Full customer + restaurant flow | Complete order lifecycle: discovery to checkout to real-time tracking |
+
+<a href="https://github.com/lawazislam/to-your-door-food-delivery-app"><img src="https://img.shields.io/badge/Read-Full%20thesis%20(PDF)-08872b?style=for-the-badge&labelColor=0d1117" alt="Thesis" /></a>
 
 </details>
 
@@ -213,13 +242,43 @@ A rule-based thermostatic controller for a series plug-in hybrid, modeled in MAT
 
 *The Nexys 4 Artix-7 board running the 7-segment display project.*
 
-Real-time FPGA systems built during the VLSI internship at Jadavpur University's IC Design and Fabrication Centre: 7-segment and LCD display drivers, shift registers, counters and clock division, on top of adders, decoders and multiplexers designed in Verilog and verified in Xilinx Vivado. Group lab report.
+The first of three practicals from a VLSI Design summer training program at Jadavpur University's IC Design and Fabrication Centre. Real-time FPGA systems built on Artix-7: 7-segment and LCD display drivers, shift registers, counters and clock division, on top of adders, decoders and multiplexers designed in Verilog and verified in Xilinx Vivado. Every module in the repo is independently verified to compile with Icarus Verilog. Group lab report.
 
 | Stack | Scale | Impact |
 |---|---|---|
 | Verilog, Xilinx Vivado, Artix-7 (Nexys 4) | 4+ lab projects | Grade A; every design verified in simulation before it went to hardware |
 
 <a href="https://lawazislam.com/projects"><img src="https://img.shields.io/badge/Read-Full%20report%20(PDF)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Report" /></a>
+<a href="https://github.com/lawazislam/verilog-fpga-lab"><img src="https://img.shields.io/badge/View-Source-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
+
+</details>
+
+<details>
+<summary><b>EDA (Digital &amp; Analog) Lab</b> · CMOS circuit design in T-Spice</summary>
+<br/>
+
+The second of three practicals from the same Jadavpur training program. Fifteen CMOS circuits, digital and analog, designed and simulated transistor-level in T-Spice: inverters, NAND/NOR gates, transmission-gate logic, and a buffer built from a reusable subcircuit on the digital side; a current mirror, a differential amplifier, and an LC voltage-controlled oscillator on the analog side. Group lab report.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| T-Spice, CMOS transistor-level design | 15 circuits, digital and analog | Same tool covering logic gates through to an oscillator, transistor-level throughout |
+
+<a href="https://github.com/lawazislam/eda-analog-digital-lab"><img src="https://img.shields.io/badge/Read-Full%20report%20(PDF)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Report" /></a>
+<a href="https://github.com/lawazislam/eda-analog-digital-lab"><img src="https://img.shields.io/badge/View-Source-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
+
+</details>
+
+<details>
+<summary><b>Microelectronics Lab</b> · silicon IC fabrication, hands-on cleanroom work</summary>
+<br/>
+
+The third of three practicals from the same Jadavpur training program. Hands-on coverage of the core silicon fabrication process: cleaning, oxidation, photolithography, diffusion, and metallization, including operating a thermal vacuum evaporation machine to deposit Aluminium and Silver thin films onto a masked wafer. Physical process work, no source code applies. Group lab report.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| Silicon wafer fabrication, thermal vacuum evaporation, diffusion pump systems | Full fabrication sequence | Direct hands-on exposure to how a chip is physically made, not just designed |
+
+<a href="https://lawazislam.com/assets/reports/microelectronics-fabrication-lab.pdf"><img src="https://img.shields.io/badge/Read-Full%20report%20(PDF)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Report" /></a>
 
 </details>
 
@@ -238,6 +297,7 @@ Recursive backtracking fills a randomized valid grid, then cells are removed one
 | C++17, STL, recursive backtracking | 9x9 grid, 3 difficulty levels | Guaranteed unique-solution generation, not just random cell removal |
 
 <a href="https://lawazislam.com/projects"><img src="https://img.shields.io/badge/Read-Full%20report%20(PDF)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Report" /></a>
+<a href="https://github.com/lawazislam/sudoku-generator-solver"><img src="https://img.shields.io/badge/View-Source-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
 
 </details>
 
@@ -256,6 +316,35 @@ NodeMCU ESP8266 firmware that joins the local WiFi network, runs a small web ser
 | NodeMCU ESP8266, Arduino IDE (C/C++), Android app | 4 independent relay channels | The complete path from a phone command to a physical switching action |
 
 <a href="https://lawazislam.com/projects"><img src="https://img.shields.io/badge/Read-Full%20report%20(PDF)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Report" /></a>
+<a href="https://github.com/lawazislam/wifi-home-automation"><img src="https://img.shields.io/badge/View-Source-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
+
+</details>
+
+<details>
+<summary><b>CDMA Signal Transmission &amp; Reception</b> · MATLAB/Octave, verified bit-exact</summary>
+<br/>
+
+A simulation of Code Division Multiple Access: four users transmit simultaneously over one shared channel, each spread with their own Walsh code, and the receiver recovers every user's data exactly, with zero bit errors, by exploiting the orthogonality of those codes. Built with Sayantan Sarkar for a Communication Lab practical.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| MATLAB/Octave | 4 simultaneous users, 8-bit streams | Reconstruction verified bit-for-bit against the original transmitted data, zero error |
+
+<a href="https://github.com/lawazislam/cdma-signal-simulation"><img src="https://img.shields.io/badge/View-Source-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
+
+</details>
+
+<details>
+<summary><b>ROS Noetic + Gazebo: TurtleBot3 Simulation</b> · robotics environment setup</summary>
+<br/>
+
+Setting up a full ROS robotics simulation environment from scratch: installing ROS Noetic, building a catkin workspace, and getting a TurtleBot3 Waffle model running in Gazebo with its camera, laser, and differential-drive plugins all initializing cleanly, inside a VirtualBox VM. Documented with real photos from the actual build and run.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| ROS Noetic, Gazebo, catkin, Ubuntu (VirtualBox) | Full sim stack: camera, laser, diff-drive plugins | Environment built and verified end to end, from a blank VM to a running robot simulation |
+
+<a href="https://github.com/lawazislam/ros-gazebo-turtlebot3"><img src="https://img.shields.io/badge/View-Source-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
 
 </details>
 
@@ -266,7 +355,7 @@ Doha to Kolkata to Windsor. Newest first; the two Windsor placements are where t
 **Windsor, Canada · 2025 to 2026**
 
 **Data Manager · Welcome Centre Shelter for Women and Families** · Jan to Apr 2026
-- Reconciled 100+ invoice records worth $100K+ over 12 months for a non-profit serving 200+ clients, and caught 10+ discrepancies before they reached the operational reports
+- Reconciled 100+ invoice records worth $200K+ over 16 months for a non-profit serving 200+ clients, and caught 10+ discrepancies before they reached the operational reports
 - Analyzed a year of performance data and gave leadership month-over-month and year-over-year trends they could act on
 - Kept confidential records to regulated community-care standards; Naloxone-certified
 
