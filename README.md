@@ -124,7 +124,7 @@ Every figure below names where it comes from. Nothing here is estimated for effe
 | **41%** | Readings found outside safe thresholds | IoT Dashboard report |
 | **37.8%** | Controller gap to DP optimum, quantified | PHEV report, ELEC8900 |
 | **71 to 98%** | Fuel reduction vs. ICE baseline, 4 drive cycles | PHEV report, ELEC8900 |
-| **4+** | FPGA lab projects delivered, Grade A | Jadavpur University, 2022 |
+| **4+** | FPGA lab projects delivered, exam Grade A | Jadavpur University, 2022 |
 | **20%** | Growth in weekly attendance across 25+ meetings | IEM Toastmasters, VP Public Relations |
 | **5** | Countries trained and worked in | Qatar, India, US, Singapore, Canada |
 | **84%** | MEng average | University of Windsor, 2026 |
@@ -246,7 +246,7 @@ The first of three practicals from a VLSI Design summer training program at Jada
 
 | Stack | Scale | Impact |
 |---|---|---|
-| Verilog, Xilinx Vivado, Artix-7 (Nexys 4) | 4+ lab projects | Grade A; every design verified in simulation before it went to hardware |
+| Verilog, Xilinx Vivado, Artix-7 (Nexys 4) | 4+ lab projects | Exam Grade A; every design verified in simulation before it went to hardware |
 
 <a href="https://lawazislam.com/projects"><img src="https://img.shields.io/badge/Read-Full%20report%20(PDF)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Report" /></a>
 <a href="https://github.com/lawazislam/verilog-fpga-lab"><img src="https://img.shields.io/badge/View-Source-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
@@ -385,7 +385,7 @@ Doha to Kolkata to Windsor. Newest first; the two Windsor placements are where t
 **Kolkata, India · 2022**
 
 **VLSI Design Intern · Jadavpur University, IC Design and Fabrication Centre** · Sep to Nov 2022
-- Delivered 4+ FPGA lab projects at Grade A: counters, display controllers and shift registers in Verilog on Xilinx Vivado and Artix-7
+- Delivered 4+ FPGA lab projects on Xilinx Vivado and Artix-7 (counters, display controllers, shift registers), then earned Grade A on the program's written exam
 - Wrote the formal technical report for each project, covering design method and verification results
 
 `Verilog` `Xilinx Vivado` `FPGA`
@@ -443,7 +443,7 @@ Self-generated from the same Expertise table on the site, not a template. The le
 
 <div align="center">
 
-<img src="https://lawazislam.com/assets/skill-radar.svg" width="520" alt="Skill signal radar chart across Data analysis, IT support, Full-stack web, Control systems, Digital design and Embedded/IoT, sourced from lawazislam.com" />
+<img src="https://lawazislam.com/assets/skill-radar.svg?v=2" width="520" alt="Skill signal radar chart across Data analysis, IT support, Full-stack web, Control systems, Digital design and Embedded/IoT, sourced from lawazislam.com" />
 
 </div>
 
