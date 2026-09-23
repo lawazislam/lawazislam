@@ -348,6 +348,44 @@ Setting up a full ROS robotics simulation environment from scratch: installing R
 
 </details>
 
+<details>
+<summary><b>Battery Management: ECM &amp; SOC Estimation</b> · MATLAB/Simulink, independently re-verified</summary>
+<br/>
+
+<img src="https://lawazislam.com/assets/img/battery-ecm-nyquist-plot.jpg" width="70%" alt="Nyquist plot of the 2RC battery equivalent circuit model impedance" />
+
+*Nyquist impedance plot of the 2RC battery model, from the report.*
+
+Two Advanced Energy Storage Systems projects covering core Battery Management System functions. Built a 2RC equivalent circuit model in MATLAB, ran a Nyquist impedance analysis, and scaled it to a 110S72P EV-scale pack simulated under real UDDS and HWFET drive cycles. Separately, built a Simulink implementation of rest-detection capacity estimation and coulomb-counting SOC tracking. Every reported result was independently re-verified: re-ran the MATLAB code in Octave and reproduced every value exactly, then cross-checked every parameter against the official assignment sheet, which surfaced and fixed a real discrepancy in the simulation sampling time.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| MATLAB, Simulink, Octave | 2 combined projects, cell model to 110S72P pack | 153.8 Ah pack capacity estimated; every result independently reproduced and cross-checked against the assignment spec |
+
+<a href="https://lawazislam.com/projects"><img src="https://img.shields.io/badge/Read-Full%20report%20(PDF)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Report" /></a>
+<a href="https://github.com/lawazislam/battery-management-ecm-soc"><img src="https://img.shields.io/badge/View-Source-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
+
+</details>
+
+<details>
+<summary><b>Reconfigurable Computing: VHDL on FPGA</b> · synthesized and timed on a real Max 10 FPGA</summary>
+<br/>
+
+<img src="https://lawazislam.com/assets/img/vhdl-fpga-byte-processor-waveform.jpg" width="70%" alt="Questa simulation waveform showing the byte_processor FSM computing seven consecutive byte differences and pulsing done" />
+
+*Questa waveform: all 7 byte differences and the done pulse, independently reproduced with GHDL.*
+
+Three assignments progressing from basic combinational and sequential building blocks through a full RTL-to-synthesis-to-timing-closure flow on a real Intel FPGA. Built a 12-bit counter two ways, structurally and behaviorally, to directly compare both VHDL design methodologies; an 8-bit universal shift register and a generic n-bit sequential restoring binary divider, synthesized at four bit-widths; and a complete 4-state FSM byte-processing system synthesized in Intel Quartus Prime to a Max 10 FPGA. Co-authored with Kamran Shahid. Every design was independently re-verified by compiling and simulating all of them with GHDL, including 6 original test vectors for the divider.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| VHDL, Intel Quartus Prime, ModelSim/Questa, GHDL | 3 assignments, 9 designs | Synthesized to 189.83 MHz on real hardware (192 logic elements, 83 registers); every design independently re-verified |
+
+<a href="https://lawazislam.com/projects"><img src="https://img.shields.io/badge/Read-Full%20report%20(PDF)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Report" /></a>
+<a href="https://github.com/lawazislam/reconfigurable-computing-vhdl-fpga"><img src="https://img.shields.io/badge/View-Source-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
+
+</details>
+
 ## Journey
 
 Doha to Kolkata to Windsor. Newest first; the two Windsor placements are where the deepest work happened.
