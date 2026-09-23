@@ -458,7 +458,7 @@ What I build and lead when nobody is making me.
 
 <img src="https://img.shields.io/badge/MEng%20Electrical%20%26%20Computer%20Engineering-University%20of%20Windsor%2C%202026%20%C2%B7%2084%25%20%28approx.%203.7%2F4.0%29-08872b?style=for-the-badge&labelColor=0d1117" alt="MEng" />
 <br/>
-<img src="https://img.shields.io/badge/B.Tech%20Electronics%20%26%20Communication-IEM%20Kolkata%2C%202024%20%C2%B7%20CGPA%209.3%2F10%2C%203.70%2F4.0%20%28MAKAUT%20conversion%29-08872b?style=for-the-badge&labelColor=0d1117" alt="B.Tech" />
+<img src="https://img.shields.io/badge/B.Tech%20Electronics%20%26%20Communication-IEM%20Kolkata%2C%202024%20%C2%B7%20DGPA%209.3%2F10%2C%203.42%2F4.0%20%28MAKAUT%20conversion%29-08872b?style=for-the-badge&labelColor=0d1117" alt="B.Tech" />
 
 <br/><br/>
 
