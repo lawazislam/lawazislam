@@ -8,7 +8,7 @@ be rebuilt or adjusted without starting from scratch.
 Level scale (ordinal, low to high):
     1 = Graduate coursework
     2 = Project level
-    3 = Internship Grade A
+    3 = Internship level
     4 = Deployed and tested
     5 = Working professionally
 
@@ -31,7 +31,7 @@ SKILLS = {
 LEVEL_LABELS = {
     1: "Graduate coursework",
     2: "Project level",
-    3: "Internship Grade A",
+    3: "Internship level",
     4: "Deployed and tested",
     5: "Working professionally",
 }
@@ -65,8 +65,16 @@ def build_chart(out_path="skill-radar.svg"):
 
     ax.set_ylim(0, 5)
     ax.set_yticks([1, 2, 3, 4, 5])
-    ax.set_yticklabels([])  # radial numbers omitted, legend covers meaning
-    ax.set_rlabel_position(0)
+    # Radial scale numbers placed directly on the chart, in the gap between
+    # the "Control systems" and "Digital design" spokes (210 degrees), the
+    # part of the chart with the lowest values, so the numbers sit clear of
+    # the filled shape instead of running along its edge.
+    ax.set_rlabel_position(210)
+    ax.set_yticklabels(["1", "2", "3", "4", "5"], color=WHITE, fontsize=8.5,
+                        fontfamily="monospace", fontweight="bold")
+    for label in ax.get_yticklabels():
+        label.set_bbox(dict(boxstyle="round,pad=0.15", facecolor=BG,
+                             edgecolor=GRID, linewidth=0.6, alpha=0.92))
 
     ax.set_xticks(angles)
     ax.set_xticklabels(categories, color=TEXT, fontsize=10.5, fontfamily="monospace")
@@ -83,7 +91,7 @@ def build_chart(out_path="skill-radar.svg"):
     # --- Legend: the five ordinal levels, low to high, with clear spacing ---
     # Laid out as two explicit rows rather than one auto-wrapped string,
     # so a level name never gets split awkwardly across lines.
-    row1 = "1  Graduate coursework      2  Project level      3  Internship Grade A"
+    row1 = "1  Graduate coursework      2  Project level      3  Internship level"
     row2 = "4  Deployed and tested      5  Working professionally"
 
     fig.text(
