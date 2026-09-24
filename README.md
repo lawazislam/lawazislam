@@ -119,14 +119,21 @@ Every figure below names where it comes from. Nothing here is estimated for effe
 | **200+** | Clients a year served by the organization | Welcome Centre Shelter |
 | **30** | Knowledge-base articles curated from 50+ and audited for public vs. internal use | City of Windsor, 2025 |
 | **2** | Live web apps shipped with automated tests | job-tracker and slickscores, this GitHub |
+| **15** | Automated tests passing across both live apps | job-tracker and slickscores, pytest |
+| **100+** | Live game titles pulled from the RAWG API | slickscores, 2026 rebuild |
+| **759** | Realistic reviews generated for the demo catalog | slickscores, seeded data |
 | **27** | Critical events flagged across 402 sensor readings | IoT Dashboard report |
 | **41%** | Readings found outside safe thresholds | IoT Dashboard report |
 | **37.8%** | Controller gap to DP optimum, quantified | PHEV report, ELEC8900 |
 | **71 to 98%** | Fuel reduction vs. ICE baseline, 4 drive cycles | PHEV report, ELEC8900 |
 | **4+** | FPGA lab projects delivered, exam Grade A | Jadavpur University, 2022 |
+| **189.83 MHz** | Max frequency reached on a real FPGA | reconfigurable-computing-vhdl-fpga |
+| **153.8 Ah** | Pack capacity estimated via coulomb counting | battery-management-ecm-soc |
 | **20%** | Growth in weekly attendance across 25+ meetings | IEM Toastmasters, VP Public Relations |
 | **5** | Countries trained and worked in | Qatar, India, US, Singapore, Canada |
 | **84%** | MEng average | University of Windsor, 2026 |
+| **11** | Featured projects, each with a live app or full report | lawazislam.com/projects |
+| **13** | GitHub repositories, several independently verified | github.com/lawazislam |
 
 </div>
 
