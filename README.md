@@ -29,7 +29,7 @@ I turn messy data into clear answers, and ideas into working hardware.
 
 I grew up in Doha, studied engineering in Kolkata, and finished my Master of Engineering in Windsor, with training stops at NASA Kennedy Space Center and the National University of Singapore along the way. Five countries and three education systems teach you one thing above all: walk into an unfamiliar setup, figure out how it actually works, then make it better.
 
-I build things when nobody asks me to. I rewrote an old course project into a modern C++ Sudoku solver on my own time, built a game rating app during a training placement and rebuilt it two years later as a live, tested product, and helped design the AI use-case submission process at the City of Windsor. I would rather understand the whole system before I touch a part of it, and I would rather ship something measurable than describe something impressive.
+I build things when nobody asks me to. I rewrote an old course project into a modern C++ Sudoku solver on my own time, built a game rating app during a training placement and rebuilt it two years later as a live, tested product, and co-designed the AI use-case submission process at the City of Windsor. I would rather understand the whole system before I touch a part of it, and I would rather ship something measurable than describe something impressive.
 
 Away from work: Formula 1, football, cricket and basketball, old kits and old highlights, new places, and a Football Manager save that gets more attention than it deserves.
 
@@ -69,7 +69,7 @@ Reconciliation, reporting and dashboards in Power BI, DAX, SQL, Excel and Python
 
 IT support, documentation and coordination across ServiceNow, Microsoft 365, SharePoint and Power Automate. I make it easier for staff to find answers and for projects to keep moving.
 
-**50+** ServiceNow knowledge-base articles rebuilt and used across the City of Windsor IT department, plus a hand in designing the City's AI use-case submission process.
+**30** ServiceNow knowledge-base articles kept and fully updated after reorganizing the department's 50+, plus co-designing the City's AI use-case submission process.
 
 </td>
 <td width="33%" valign="top">
@@ -117,8 +117,7 @@ Every figure below names where it comes from. Nothing here is estimated for effe
 | **$200K+** | Invoices reconciled over 16 months | Welcome Centre Shelter, 2026 |
 | **10+** | Discrepancies caught before reporting | Welcome Centre Shelter, 2026 |
 | **200+** | Clients a year served by the organization | Welcome Centre Shelter |
-| **50+** | Knowledge-base articles rebuilt, used department-wide | City of Windsor, 2025 |
-| **30+** | Entries audited for public vs. internal use | City of Windsor, 2025 |
+| **30** | Knowledge-base articles curated from 50+ and audited for public vs. internal use | City of Windsor, 2025 |
 | **2** | Live web apps shipped with automated tests | job-tracker and slickscores, this GitHub |
 | **27** | Critical events flagged across 402 sensor readings | IoT Dashboard report |
 | **41%** | Readings found outside safe thresholds | IoT Dashboard report |
@@ -400,8 +399,8 @@ Doha to Kolkata to Windsor. Newest first; the two Windsor placements are where t
 `Excel` `Power BI` `Data reconciliation` `Reporting`
 
 **IT Project Coordinator and Researcher · City of Windsor** · Sep to Dec 2025
-- Rebuilt 50+ ServiceNow knowledge-base articles, now used across the IT department, and audited 30+ entries to decide what stays internal and what citizens can see
-- Helped design the AI Use Case submission process: form structure, question flow, prioritization criteria
+- Reorganized and refreshed the ServiceNow knowledge base, cutting 50+ articles to about 30 by removing irrelevant entries and updating the rest, deciding what stays internal versus citizen-visible
+- Co-designed the AI Use Case submission process: form structure, question flow, prioritization criteria
 - Supported active IT projects under the Technology Strategy and Operations team with feasibility checks and documentation
 
 `ServiceNow` `SharePoint` `Microsoft 365` `Power Automate` `Documentation`
@@ -517,7 +516,7 @@ building:
   - slickscores: hardening the 2026 rebuild (live RAWG catalog, server-side auth, pytest)
   - lawazislam.com: a portfolio where every number has a receipt
 exploring:
-  - AI tooling in real workflows, after helping design the City of Windsor's AI use-case intake process
+  - AI tooling in real workflows, after co-designing the City of Windsor's AI use-case intake process
   - Applying the PHEV dynamic-programming benchmark to adaptive control
 open_to:
   - IT Support Analyst, Junior Data Analyst, IT Project Coordinator, Reporting Analyst, Engineering Technician
