@@ -118,8 +118,8 @@ Every figure below names where it comes from. Nothing here is estimated for effe
 | **10+** | Discrepancies caught before reporting | Welcome Centre Shelter, 2026 |
 | **200+** | Clients a year served by the organization | Welcome Centre Shelter |
 | **30** | Knowledge-base articles curated from 50+ and audited for public vs. internal use | City of Windsor, 2025 |
-| **2** | Live web apps shipped with automated tests | job-tracker and slickscores, this GitHub |
-| **15** | Automated tests passing across both live apps | job-tracker and slickscores, pytest |
+| **3** | Live web apps shipped with automated tests | job-tracker, slickscores and freshroute, this GitHub |
+| **26** | Automated tests passing across all three live apps | job-tracker, slickscores and freshroute, pytest |
 | **100+** | Live game titles pulled from the RAWG API | slickscores, 2026 rebuild |
 | **759** | Realistic reviews generated for the demo catalog | slickscores, seeded data |
 | **27** | Critical events flagged across 402 sensor readings | IoT Dashboard report |
@@ -132,7 +132,7 @@ Every figure below names where it comes from. Nothing here is estimated for effe
 | **20%** | Growth in weekly attendance across 25+ meetings | IEM Toastmasters, VP Public Relations |
 | **5** | Countries trained and worked in | Qatar, India, US, Singapore, Canada |
 | **84%** | MEng average | University of Windsor, 2026 |
-| **11** | Featured projects, each with a live app or full report | lawazislam.com/projects |
+| **12** | Featured projects, each with a live app or full report | lawazislam.com/projects |
 | **13** | GitHub repositories, several independently verified | github.com/lawazislam |
 
 </div>
@@ -193,16 +193,17 @@ An ESP32 with a DHT22 sensor simulated in Wokwi, a Python pipeline (pandas, nump
 </details>
 
 <details>
-<summary><b>Client-Server Chat System</b> · multi-threaded Python over TCP sockets</summary>
+<summary><b>FreshRoute</b> · role-based delivery platform, atomic claiming and a self-serve cancel window</summary>
 <br/>
 
-A multi-threaded chat server in Python: one server handles several clients at once over TCP sockets, using a fixed-length header protocol so the receiver always knows exactly how many bytes to read next. Broadcast messages to everyone or a private `@username` message to one person. Built with Sayantan Sarkar for a Computer Networks Lab practical.
+A full-stack delivery platform where customers, restaurant owners and riders each get a server-side-enforced set of permitted actions instead of three skins on one shared screen. Rider claiming is a single conditional database write, so two riders racing for the same order cannot both win it, and an order only truly closes once the customer confirms receipt, not just when the rider says it arrived. Twelve restaurants across ten cuisines ship through one cart with Haversine distance-based delivery pricing.
 
 | Stack | Scale | Impact |
 |---|---|---|
-| Python, socket, threading, select | Concurrent multi-client handling | Framing protocol and concurrent connection handling built from raw sockets, no framework |
+| React, FastAPI, SQLite, pytest, Render | 12 restaurants, 10 cuisines, 11 end-to-end tests | Atomic rider claiming and a backend-enforced 10-second cancel window close two real race-condition classes, not just happy-path CRUD |
 
-<a href="https://github.com/lawazislam/client-server-python"><img src="https://img.shields.io/badge/View-Source-08872b?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
+<a href="https://freshroute-arxz.onrender.com"><img src="https://img.shields.io/badge/Open-Live%20app-08872b?style=for-the-badge&labelColor=0d1117" alt="Live app" /></a>
+<a href="https://github.com/lawazislam/freshroute"><img src="https://img.shields.io/badge/View-Source-08872b?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
 
 </details>
 
@@ -551,4 +552,3 @@ If you are hiring for IT support, data analytics, project coordination or engine
 <img src="https://capsule-render.vercel.app/api?type=wave&color=08872b&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
-
