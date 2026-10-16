@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <a href="https://lawazislam.com"><img src="https://lawazislam.com/assets/og-image.png" width="100%" alt="Lawaz Islam. IT and Data Analyst. Electrical and Computer Engineering Graduate. Windsor, Ontario." /></a>
 
@@ -504,19 +504,6 @@ Setting up a full ROS robotics simulation environment from scratch: installing R
 | ROS Noetic, Gazebo, catkin, Ubuntu (VirtualBox) | Full sim stack: camera, laser, diff-drive plugins | Environment built and verified end to end, from a blank VM to a running robot simulation |
 
 <a href="https://github.com/lawazislam/ros-gazebo-turtlebot3"><img src="https://img.shields.io/badge/View-Source-1f6feb?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" alt="Source" /></a>
-
-</details>
-
-<details>
-<summary><b>To Your Door</b> · Android food delivery app, four-person capstone</summary>
-<br/>
-
-A four-person capstone Android app for food delivery, covering both the customer side (restaurant discovery, cart, checkout, live order tracking) and the restaurant side (menu and order management). Built with Ishu Kumar, Anchal Kumari, and Arko Paul, supervised by Prof. Tapan Kumar Rana. My contribution was spread across the app rather than one isolated piece.
-
-| Stack | Scale | Impact |
-|---|---|---|
-| Kotlin, Android Studio, Firebase, Google Maps API, Razorpay | Full customer + restaurant flow | Complete order lifecycle: discovery to checkout to real-time tracking |
-
 
 </details>
 
