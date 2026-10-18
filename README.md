@@ -527,7 +527,7 @@ flowchart LR
 
 **Remote · 2026**
 
-**Technical QA &amp; Platform Tester (Dev Cohort) · SYNK** · Aug to Oct 2026 · Internship
+**Technical QA &amp; Platform Tester (Dev Cohort) · SYNK** · Aug to Oct 2026
 - Selected for a technical residency to stress-test Synk's spatial audio platform, logging 3,600+ minutes of active session testing to identify browser rendering lag and memory spikes during multi-user load events
 - Used the residency timeline to ship two independent projects: [FreshRoute](https://github.com/lawazislam/freshroute), a multi-role delivery platform with a server-side state machine and atomic database writes, and the [ServiceNow ITSM Service Desk](https://github.com/lawazislam/servicenow-itsm-service-desk), with 200 scripted synthetic incidents and ACL rules verified by impersonation
 - Authored a combined suite of 25+ automated tests (pytest and server-side scripts) to verify business logic across both
