@@ -507,19 +507,6 @@ Setting up a full ROS robotics simulation environment from scratch: installing R
 
 </details>
 
-<details>
-<summary><b>To Your Door</b> · Android food delivery app, four-person capstone</summary>
-<br/>
-
-A four-person capstone Android app for food delivery, covering both the customer side (restaurant discovery, cart, checkout, live order tracking) and the restaurant side (menu and order management). Built with Ishu Kumar, Anchal Kumari, and Arko Paul, supervised by Prof. Tapan Kumar Rana. My contribution was spread across the app rather than one isolated piece.
-
-| Stack | Scale | Impact |
-|---|---|---|
-| Kotlin, Android Studio, Firebase, Google Maps API, Razorpay | Full customer + restaurant flow | Complete order lifecycle: discovery to checkout to real-time tracking |
-
-
-</details>
-
 ## Journey
 
 Doha to Kolkata to Windsor. The route first, then every role, newest first; the two Windsor placements are where the deepest work happened.
