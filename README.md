@@ -509,18 +509,20 @@ Setting up a full ROS robotics simulation environment from scratch: installing R
 
 ## Journey
 
-Doha to Kolkata to Windsor. The route first, then every role, newest first; the two Windsor placements are where the deepest work happened.
+Doha to America to Kolkata to Singapore to Windsor. The route first, then every role, newest first; the two Windsor placements are where the deepest work happened.
 
 ```mermaid
 flowchart LR
-  D["Doha, Qatar<br/>school years"] --> K["Kolkata, India<br/>B.Tech ECE, IEM<br/>VLSI and robotics internships, 2022"]
-  K --> Q["Doha, Qatar<br/>Ooredoo and Commercial Bank<br/>2024"]
+  D["Doha, Qatar<br/>school years"] --> A["Florida, USA<br/>NASA Kennedy Space Center<br/>Rocketry Program, 2019"]
+  A --> K["Kolkata, India<br/>B.Tech ECE, IEM<br/>VLSI and robotics internships, 2022"]
+  K --> S["Singapore<br/>National University of Singapore<br/>AI, ML, IoT and Data Analytics, 2022"]
+  S --> Q["Doha, Qatar<br/>Ooredoo and Commercial Bank<br/>2024"]
   Q --> W["Windsor, Canada<br/>MEng ECE, 2026<br/>City of Windsor, Welcome Centre"]
   W --> R["Remote<br/>SYNK QA residency<br/>2026"]
   classDef data fill:#0d1117,stroke:#5fed83,color:#ffffff
   classDef eng fill:#0d1117,stroke:#8dd6ff,color:#ffffff
-  class D,Q,W,R data
-  class K eng
+  class D,S,Q,W,R data
+  class A,K eng
 ```
 
 **Remote · 2026**
